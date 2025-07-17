@@ -38,12 +38,12 @@
          <mdiv xml:id="mcxmjm4">
             <score xml:id="s2rd3s2">
                <scoreDef xml:id="snvdbq7" spacing.staff="20.000000vu" optimize="false">
-                 <pgHead xml:id="phkhi471">
+                 <pgHead xml:id="phkhi471" func="first">
                      <rend xml:id="rul98vn2" fontsize="300%" fontweight="bold" halign="center" valign="top">Perpetuum mobile</rend>
                      <rend xml:id="r92o6rk1" fontsize="200%" halign="center">Ein musikalischer Scherz für Orchester</rend>
                      <rend xml:id="r3utxoc" fontsize="150%" halign="right">Johann Strauss (Sohn), Op. 257</rend>
                   </pgHead>
-                  <pgFoot xml:id="pwcqk3p1"/>    
+                  <pgFoot xml:id="pwcqk3p1"/>
                   <staffGrp xml:id="sicf34d">
                      <staffGrp xml:id="s4uiv7p" bar.thru="true">
                         <grpSym xml:id="gccbu7x" symbol="bracket"/>
