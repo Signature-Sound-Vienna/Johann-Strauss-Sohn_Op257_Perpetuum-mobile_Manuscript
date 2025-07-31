@@ -1,3 +1,5 @@
 # Johann Strauss Sohn: *Perpetuum mobile* Op. 257
 
 This repository contains an MEI encoding of *Perpetuum mobile*, Ein musikalischer Scherz für Orchester, Op. 257 by Johann Strauss Sohn (Johann Strauss junior) for orchestra, following a [manuscript by an unknown hand, no date](https://permalink.obvsg.at/wbr/AC15983500), as available at the [Wienbibliothek im Rathaus](https://www.wienbibliothek.at) (Vienna City Library), signature MHf-12224/c, permalink: <https://permalink.obvsg.at/wbr/AC15983500>, online resource: [urn:nbn:at:AT-WBR-3145](https://resolver.obvsg.at/urn:nbn:at:AT-WBR-3145). This manuscript represents the final version (also sometimes called Version C), serving as template for the Carl Haslinger edition, plate number 12605. 
+
+This encoding was created as part of the [Signature Sound Vienna](https://iwk.mdw.ac.at/signature-sound-vienna) project and is released under the [CC-BY 4.0 License](LICENSE.md). Funded by the Austrian Science Fund <https://doi.org/10.55776/P34664>
