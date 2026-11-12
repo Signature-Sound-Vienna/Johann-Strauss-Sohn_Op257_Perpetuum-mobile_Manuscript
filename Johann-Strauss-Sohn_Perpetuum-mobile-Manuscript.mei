@@ -13688,6 +13688,11 @@
                         </layer>
                      </staff>
                   </measure>
+                  <scoreDef xml:id="sd-trans-st11-m85">
+                     <staffGrp xml:id="sg-trans-st11-m85">
+                        <staffDef xml:id="st-trans-st11-m85" n="11" trans.diat="14" trans.semi="24"/>
+                     </staffGrp>
+                  </scoreDef>
                   <measure xml:id="mt538mw" n="85">
                      <staff xml:id="srzw8oh" n="1">
                         <layer xml:id="looe71k" n="1">
@@ -15784,6 +15789,11 @@
                      <tie xml:id="tnddua3" startid="#nolutij" endid="#nq1z92k"/>
                      <slur xml:id="sm75c7r" startid="#nqpv32i" endid="#nz85be5" curvedir="below"/>
                   </measure>
+                  <scoreDef xml:id="sd-trans-st11-m101">
+                     <staffGrp xml:id="sg-trans-st11-m101">
+                        <staffDef xml:id="st-trans-st11-m101" n="11" trans.diat="0" trans.semi="0"/>
+                     </staffGrp>
+                  </scoreDef>
                   <measure xml:id="m2ztfzy" n="101">
                      <staff xml:id="ssvao9n" n="1">
                         <layer xml:id="l16u04p" n="1">
@@ -23330,6 +23340,11 @@
                         </layer>
                      </staff>
                   </measure>
+                  <scoreDef xml:id="sd-trans-st2-m151">
+                     <staffGrp xml:id="sg-trans-st2-m151">
+                        <staffDef xml:id="st-trans-st2-m151" n="2" trans.diat="0" trans.semi="0"/>
+                     </staffGrp>
+                  </scoreDef>
                   <measure xml:id="m62ax0x" n="151">
                      <staff xml:id="sivrhr3" n="1">
                         <layer xml:id="lf0ybpn" n="1">
@@ -31049,6 +31064,11 @@
                      <tie xml:id="tie-0000000020054754" startid="#ninsz71" endid="#n5eufo0"/>
                      <tie xml:id="tie-0000000004762605" startid="#nr44pfm" endid="#n2vihxm"/>
                   </measure>
+                  <scoreDef xml:id="sd-trans-st2-m199">
+                     <staffGrp xml:id="sg-trans-st2-m199">
+                        <staffDef xml:id="st-trans-st2-m199" n="2" trans.diat="7" trans.semi="12"/>
+                     </staffGrp>
+                  </scoreDef>
                   <measure xml:id="mlr2lj7" n="199">
                      <staff xml:id="s8b0n9i" n="1">
                         <layer xml:id="lxvqkm6" n="1">
